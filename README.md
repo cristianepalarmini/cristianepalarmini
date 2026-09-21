@@ -8,7 +8,7 @@ Meu portfólio reúne projetos de **análise de dados, SQL, Power BI, Python e t
 
 ---
 
-## 🎯 Áreas de interesse
+## Áreas de interesse
 
 - Análise de Dados
 - Business Intelligence
@@ -51,7 +51,7 @@ Projeto baseado em resolução de problemas, prototipação, desenvolvimento, te
 
 ---
 
-## 💡 Sobre meu trabalho
+## Sobre meu trabalho
 
 Gosto de transformar problemas em soluções utilizando **dados, tecnologia e pensamento analítico**.
 
@@ -59,7 +59,7 @@ Minha experiência na educação também contribui para uma habilidade que consi
 
 ---
 
-## 🚀 Objetivo profissional
+## Objetivo profissional
 
 Atuar em ambientes nos quais eu possa aplicar conhecimentos de **dados, tecnologia e resolução de problemas**, contribuindo para decisões baseadas em informação e desenvolvimento de soluções.
 
